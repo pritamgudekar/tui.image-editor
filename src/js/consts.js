@@ -161,7 +161,7 @@ module.exports = {
     defaultDrawRangeValus: {
         min: 5,
         max: 30,
-        value: 12
+        value: 5
     },
 
     defaultShapeStrokeValus: {
@@ -175,7 +175,7 @@ module.exports = {
         realTimeEvent: true,
         min: 10,
         max: 100,
-        value: 50
+        value: 20
     },
 
     defaultFilterRangeValus: {
